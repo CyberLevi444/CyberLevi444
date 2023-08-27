@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure/ Cloud Cybersecurity Projects (AlgoExpert)</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/CyberLevi444/Cloud-Soc)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/CyberLevi444/Cloud-Soc)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
