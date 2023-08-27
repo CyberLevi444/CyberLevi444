@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon!
+<h1>Hi, I'm Brandon! Passionate Cybersecurity Professional
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
